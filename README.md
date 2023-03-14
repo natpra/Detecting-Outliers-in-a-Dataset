@@ -1,4 +1,4 @@
-# Detecting-Outliers-in-a-Dataset
+# Locating-Outliers-in-a-Dataset
 
 Code to detect outliers in a given dataset (Iris.csv):
 
